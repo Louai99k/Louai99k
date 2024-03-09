@@ -56,6 +56,7 @@
   <a href="https://www.instagram.com/luay_kelani99k/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a target="_blank" href="https://www.reddit.com/user/LuayKelani/"><img src="https://www.cdnlogo.com/logos/r/93/reddit.svg" width="52" height="40" alt="reddit logo"></a>
 </div>
 
 ###
