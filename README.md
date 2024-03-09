@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code & manage projects with:</h2>
+<h2 align="left">I Code & Manage Projects with:</h2>
 
 ###
 
@@ -39,6 +39,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
+
+###
+
+<h2 align="left">My Social Links:</h2>
 
 ###
 
